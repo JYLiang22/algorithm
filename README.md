@@ -19,6 +19,10 @@ acm模式练习：[卡码网](https://kamacoder.com/)<br>
 
 ![alt text](image/回溯.png)<br>
 
+## 贪心
+
+![alt text](image/贪心.png)<br>
+
 ## 动规
 
 ![alt text](image/动规.png)<br>
