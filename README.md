@@ -5,6 +5,8 @@
 题解：[代码随想录](https://github.com/youngyangyang04/leetcode-master)<br>
 acm模式练习：[卡码网](https://kamacoder.com/)<br>
 
+除了代码随想录，还要把leetcode hot100掌握，因为里面包含了前缀和、位运算这些常见知识点。<br>
+
 
 # 常考算法
 
